@@ -1,0 +1,16 @@
+{
+    "name": "tigrang/EasyJoin",
+    "type": "cakephp-plugin",
+    "description": "CakePHP plugin - Easily create joins for your associated models.",
+    "keywords": ["cakephp"],
+    "homepage": "http://github.com/tigrang/EasyJoin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tigran Gabrielyan"
+        }
+    ],
+    "require": {
+        "composer/installers": "*"
+    }
+}
